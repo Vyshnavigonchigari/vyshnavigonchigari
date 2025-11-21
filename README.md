@@ -34,27 +34,29 @@ Git • GitHub • Postman • VSCode
 
 
 ### 🌐 **Personal Portfolio Website** 
-**Tech:** React,Tailwind
-📌 *Showcases my projects,skills
-🔗 Repo: https://github.com/Vyshnavigonchigari/portfolio
+**Tech:** React,Tailwind  
+📌 Showcases my projects,skills  
+🔗 Repo: https://github.com/Vyshnavigonchigari/portfolio  
 🌐 Live: https://vyshnavigonchigari.netlify.app
   
 ###  🍽 **HomelyBites – Cloud kitchen review platform**
-**Tech:** Node.js, Express, EJS, MongoDB
-📌 A Platform where users review food from cloud kitchens
-🔗 Repo: https://github.com/Vyshnavigonchigari/HomelyBites
+**Tech:** Node.js, Express, EJS, MongoDB  
+📌 A Platform where users review food from cloud kitchens  
+🔗 Repo: https://github.com/Vyshnavigonchigari/HomelyBites  
 🌐 Live: https://homelybites-o51g.onrender.com
 
 ### 🥁 **DrumKit – Play Drum Sounds with Keyboard**  
-**Tech:** HTML, CSS, JavaScript  
-📌 Fun interactive drumkit using JS events. Press keys → play sounds!  
-🔗 Repo:  https://github.com/Vyshnavigonchigari/Drum-Kit 
-🌐 Live: https://vyshnavigonchigari.github.io/Drum-Kit
+**Tech:** HTML, CSS, JavaScript   
+📌 Fun interactive drumkit using JS events. Press keys → play sounds!    
+🔗 Repo:  https://github.com/Vyshnavigonchigari/Drum-Kit   
+🌐 Live: https://vyshnavigonchigari.github.io/Drum-Kit  
 
-### 🎨 **Retro Pixel Art Creator**  
-**Tech:** React, Taailwind CSS  
-📌 Pixel editor with palette, grid, draw/erase  
-- Ongoing
+### 🎨 **Retro Pixel Art Creator**  - Ongoing
+**Tech:** React, Taailwind CSS    
+📌 Pixel editor with palette, grid, draw/erase    
+
+##
+ 
 
 
 👉 Check all my projects here: **[My GitHub Repos](https://github.com/Vyshnavigonchigari?tab=repositories)**
