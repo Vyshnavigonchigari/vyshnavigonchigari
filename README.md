@@ -9,7 +9,7 @@
 - 🧠 Experienced in creating **REST APIs, fullstack apps, and database-driven systems** 
 - 🔍 Preparing for **Product-based interviews**  
 - 🎨 Love building practical, user-friendly projects
-- Always learning and growing every day
+- 💡 Always learning and growing every day
 
 
 ---
